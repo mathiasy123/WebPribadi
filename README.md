@@ -1,2 +1,0 @@
-# WebPribadi
-HTML,CSS
